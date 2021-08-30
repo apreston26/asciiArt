@@ -24,6 +24,8 @@ int main()
   printf("|  | ,'        :  ,      .-./'--'.     / |  ,   / ;  :    ;|   |/        \n");
   printf("`--''           `--`----'      `--'---'   ---`-'  |  ,   / '---'        \n");
   printf("                                                   ---`-'               \n");
+
+  printf("hello world \n");
   return 0;
   
 }
